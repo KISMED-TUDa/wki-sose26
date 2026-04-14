@@ -1,4 +1,4 @@
-# Projektseminar "Wettbewerb KI in der Medizin" Sommersemester 2025
+# Projektseminar "Wettbewerb KI in der Medizin" Sommersemester 2026
 Dieses Repository enthält den Demo-Code zum Projektseminar "Wettbewerb künstliche Intelligenz in der Medizin" SoSe 2025. Das Beispiel definiert gleichzeitig das Interface zu unserem Evaluierungs-System.
 
 ## Erste Schritte
@@ -6,10 +6,10 @@ Dieses Repository enthält den Demo-Code zum Projektseminar "Wettbewerb künstli
 1. Klone/Kopiere dieses Repository
 2. Richte ein eigenes privates Repository auf github/gitlab ein. Darüber könnt ihr später die Abgaben eurer Modelle machen. 
 3. Füge unseren Account als Collaborator hinzu (Github: Name="wettbewerbKI", Gitlab: auf Anfrage)
-3. Lege ein Python Environment an. Am Besten funktioniert das mit [Anaconda](https://www.anaconda.com/products/distribution), und `conda create -n wki-sose25 python=3.8`
+3. Lege ein Python Environment an. Am Besten funktioniert das mit [Anaconda](https://www.anaconda.com/products/distribution), und `conda create -n wki-sose26 python=3.8`
 4. Installiere alle von uns verwendeten Pakete in diesem Environment, welche in "requirements.txt" gelistet sind mit
 ```
- conda activate wki-sose25
+ conda activate wki-sose26
  pip install -r requirements.txt
 ``` 
 5. Lade die Trainingsdaten herunter (in moodle verlinkt oder auf epilepsy-server), entpacke sie und lege Sie in einem Dateordner ab (Der Pfad ist im Trainingsskript bei uns hardcoded)
